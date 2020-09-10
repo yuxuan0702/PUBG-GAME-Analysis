@@ -1,8 +1,9 @@
 # PUBG-GAME-Analysis
-- The EDA of PUBG game
-- The linear regression using PUBG DATASET
-
 Dataset: https://www.kaggle.com/c/pubg-finish-placement-
 
-Output: https://sites.google.com/view/yuxuandata/project-presentation/pubg-game
+Output: [🔗Game Analysis Output](https://www.notion.so/PUBG-Game-Analysis-7338ed1b61544ab6a96152e958a5e44c)
+
+Main Ideas： 
+- Exploration Data Analysis
+- Multiple Linear Regression 
 
